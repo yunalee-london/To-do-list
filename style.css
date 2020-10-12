@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(232, 236, 225);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    color: black;
+}
+
+section {
+    padding: 2rem 10rem;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+li {
+    padding: 1rem;
+    text-align: left;
+}
+button {
+    padding: 2px;
+    margin: 2px;
+
+}
+
+form {
+    text-align: center;
+    padding: 2px;
+    margin: 10px;
+
+}
